@@ -1,0 +1,84 @@
+{
+  "blogs": [
+    {
+      "title": "Spaghetti bolognaise",
+      "description": "Éplucher l'oignon et le couper grossièrement. Éplucher et dégermer l'ail. Éplucher les carottes et les émincer. \nPeler les tomates puis les concasser.\nDans une casserole, faites revenir l'ail et l'oignon dans l'huile d'olive. \nAjouter progressivement la viande hachée....\nSalez, poivrez. \nMettre ensuite le thym et le laurier, puis les tomates concassées et le concentré.\nMouiller avec l'eau chaude. Laisser cuire à feu doux pendant 25 min.\nRectifier l'assaisonnement puis réserver.",
+      "category": "Food",
+      "imageUrl": "http://res.cloudinary.com/dhptwrc0n/image/upload/v1644447044/ifgd1rlh9we7k4jxamkt.jpg",
+      "date": "09/02/2022",
+      "id": 1
+    },
+    {
+      "title": "Fashion Style",
+      "description": "Here is my list of Types of Fashion Styles with Pictures. Though I would not call myself a fashion expert, since I have been studying all the latest trends in fashion styles, I am pretty well versed with fashion that is in vogue and fashion that is liked by all. The new and emerging trends in the fashion industry have become extremely popular and with 2020 making its way, fashion trends are slowly evolving for good.",
+      "category": "Fashion",
+      "imageUrl": "http://res.cloudinary.com/dhptwrc0n/image/upload/v1644447706/mbuiftojwk94ooga0ud1.jpg",
+      "date": "10/02/2022",
+      "id": 2
+    },
+    {
+      "title": "LE FITNESS QUELS BIENFAITS ?",
+      "description": "Les objectifs du fitness sont clairs et simples : vous apporter une meilleure santé, un meilleur aspect physique tout en favorisant le bien-être.\nContrairement à la musculation, le fitness est un sport doux dont le but est de renforcer l’ensemble du corps avec un stress physique réduit.",
+      "category": "Fitness",
+      "imageUrl": "http://res.cloudinary.com/dhptwrc0n/image/upload/v1645049948/obdtsckd06clg8t1nhwn.jpg",
+      "date": "16/02/2022",
+      "id": 3
+    },
+    {
+      "title": "Healthy Food",
+      "description": "The Healthy Eating Plate also advises consumers to avoid sugary beverages, a major source of calories—usually with little nutritional value—in the American diet.",
+      "category": "Food",
+      "imageUrl": "http://res.cloudinary.com/dhptwrc0n/image/upload/v1645109627/lg4k46qzr6fmy2y6hcyr.jpg",
+      "date": "17/02/2022",
+      "id": 4
+    },
+    {
+      "title": " Les enfants et le sport",
+      "description": "L'activité physique et sportive fait partie intégrante de l'apprentissage psychomoteur d'un enfant. Elle favorise le développement musculaire et l'acquisition de l'équilibre, de la coordination des gestes et de la précision.",
+      "category": "Sports",
+      "imageUrl": "http://res.cloudinary.com/dhptwrc0n/image/upload/v1645306705/r2fyw9ins5kj8wxd8ypf.jpg",
+      "date": "19/02/2022",
+      "id": 5
+    },
+    {
+      "title": "Île à la beauté magnétique",
+      "description": "Qui n’a pas déjà rêvé de passer ses vacances à Bali ? La plus célèbre et intrigante des îles indonésiennes offre des paysages de carte postale, grandeur nature",
+      "category": "Travel",
+      "imageUrl": "http://res.cloudinary.com/dhptwrc0n/image/upload/v1645449080/inmutwei0nznarjz4bur.jpg",
+      "date": "21/02/2022",
+      "id": 6
+    },
+    {
+      "title": "Technologie",
+      "description": "La technologie est l'étude des outils et des techniques. Le terme désigne les observations sur l'état de l'art aux diverses périodes historiques, en matière d'outils et de savoir-faire",
+      "category": "Tech",
+      "imageUrl": "http://res.cloudinary.com/dhptwrc0n/image/upload/v1645449147/t1bmspnrzd3zcrxaohlg.jpg",
+      "date": "21/02/2022",
+      "id": 7
+    },
+    {
+      "title": "Fitness",
+      "description": "Le fitness est un sport libre : pas de règles strictes à respecter mises à part celles imposées par la salle de sport (par exemple : venir avec une serviette et un équipement propre uniquement dédié au sport, et ranger le matériel après utilisation).",
+      "category": "Fitness",
+      "imageUrl": "http://res.cloudinary.com/dhptwrc0n/image/upload/v1645449391/hgcxbmhl0gruqp2j3tcq.jpg",
+      "date": "21/02/2022",
+      "id": 8
+    },
+    {
+      "title": "Travel",
+      "description": "Votre voyage de noces doit être un moment magique et mémorable quelque soit la destination que vous allez choisir. ROUKA vous propose une sélection de destinations paradisiaques pour une lune de miel de rêve.",
+      "category": "Travel",
+      "imageUrl": "http://res.cloudinary.com/dhptwrc0n/image/upload/v1645449530/qrexoodtvo950ud1ujkm.jpg",
+      "date": "21/02/2022",
+      "id": 9
+    },
+    {
+      "title": "Fashion vêtement",
+      "description": "Refresh Your Look with our Luxury Brands selection. Receive your orders quickly & safely. Receive the best brands with express shipping & special offers. Men and women collection.",
+      "category": "Fashion",
+      "imageUrl": "http://res.cloudinary.com/dhptwrc0n/image/upload/v1645450047/moykykhrimrftkco5mzx.jpg",
+      "date": "21/02/2022",
+      "id": 10
+    }
+  ]
+}

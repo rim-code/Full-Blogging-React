@@ -7,7 +7,65 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+
+.categoryDropdown {
+  width: 100%;
+  border-radius: 4px;
+  height: 35px;
+  border-color: #83ccc5;
+}
+
+.categoryErrMsg {
+  color: #f93154;
+  text-align: left;
+  font-size: 14px;
+}
+
+/* h1 au milieu d'une ligne css */
+h1 {
+  overflow: hidden;
+  text-align: center;
+}
+
+h1:before,
+h1:after {
+
+  background-color: #000;
+  content: "";
+  display: inline-block;
+  height: 1px;
+  position: relative;
+  vertical-align: middle;
+  width: 50%;
+}
+
+h1:before {
+  right: 0.5em;
+  margin-left: -50%;
+}
+
+h1:after {
+  left: 0.5em;
+  margin-right: -50%;
+}
+
+.searchForm {
+  margin: auto;
+  padding: 15px;
+  max-width: 550px;
+  align-content: center;
+}
+
+/* latestBlog */
+.latest-title {
+  color: black;
+  font-weight: 600;
+  font-family: monospace;
+
 }
